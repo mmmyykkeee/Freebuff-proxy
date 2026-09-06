@@ -1,0 +1,5 @@
+config.json
+freebuff-go
+.env
+.env.*
+*.log
